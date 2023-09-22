@@ -1,0 +1,40 @@
+/* ***********************************
+ *
+ * >>> VARS
+ *
+ * ***********************************/
+
+ :root {
+
+    /* COLORS */
+    --bg-color: #FFFFFF;
+    --bg-color-cell-one: #ececec;
+    --bg-color-cell-two: #e0e0e0;
+    --quote-text-color: #777;
+    --main-text-color: #141414;
+
+    /* FONTS */
+    --header-text-font: 'Lato', sans-serif;
+    --quote-text-font: 'Oswald', sans-serif;
+    --text-font: 'Dosis', sans-serif;
+    --header-text-height: 42px;
+    --text-height: 16px;
+    --quotes-height: 24px;
+    --title-height: 36px;
+    --responsive-text-height: 14px;
+    --responsive-quotes-height: 14px;
+    --responsive-title-height: 24px;
+
+    /* IMAGES */
+    --hero-bg-image: url("../img/orochi2.jpg");
+    --nutshell-bg-image: url("../img/orochi1.jpg");
+
+    /* OTHERS */
+    --box-shadow: 1px 6px 20px 7px rgba(0, 0, 0, 0.2)
+    </div>
+<div class="conteudo-lateral">
+<h3>categorias</h3>
+<a href="">Jogos</a><br>
+<a href="">Celulares</a><br>
+<a href="">Informatica</a><br>
+<a href="">Eletronicos</a><br>
